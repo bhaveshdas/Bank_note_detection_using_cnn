@@ -1,4 +1,4 @@
-]# Fake Currency Classifier
+# Fake Currency Classifier
 
 The advancement of digital editing and printing technology in recent years has led to several unintended consequences, such as falsification of reports and counterfeiting currencies.
 India is also grappling with this problem and the ₹500 is the worst hit.A recent RBI finding stated that their has been a 101% increase year on year in the number of counterfeit ₹500 notes in circulation.
